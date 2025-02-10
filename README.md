@@ -1,6 +1,6 @@
 # Olympics-2024-Analysis
 
-**Overview**
+**Overview:**
 The Olympics Dashboard is an interactive Power BI visualization that provides insights into historical Olympic Games data. It enables users to explore trends, athlete performances, country-wise medal counts, and other key metrics related to the Olympics.
 
 **Features**
@@ -10,14 +10,14 @@ The Olympics Dashboard is an interactive Power BI visualization that provides in
 4. Yearly Trends: Analysis of Olympic events over various years, highlighting participation trends.
 5. Sport-Specific Data: Insights into different sports categories and their medal distributions.
 
-**Data Sources**
+**Data Sources:**
 This dashboard is built using publicly available Olympics data. The dataset includes information on:
 1. Athletes and their respective events
 2. Countries and their medal tallies
 3. Olympic years and host cities
 4. Various sports and disciplines
 
-**Usage**
+**Usage:**
 This Power BI dashboard can be used for:
 1. Analyzing country-wise performance across different Olympic years
 2. Identifying trends in athlete participation and achievements
